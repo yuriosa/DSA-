@@ -1,0 +1,4 @@
+Worked on C fundamentals - Made a calendar function that adds iterates date by adding 1 day (with conditions : switch month after end of month{types : 28,29:(Feb+leap)30,31:(remaining months)} , switch year after end of year , also accounted for leap year ).
+Completed packet and frame room at tryhackme.com and posted completion under activities on linkedin
+Worked on CCNA fundamentals - learnt about OSI Model - with the help of Cisco packet tracer .
+Coursera course 1+2 revision and notes (Cybersecurity introduction and Play it safe)
